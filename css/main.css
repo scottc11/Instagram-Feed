@@ -1,17 +1,21 @@
 body {
-  background-color: rgb(164, 163, 255);
+  background-color: white;
   width: 100%;
   height: auto;
 }
 
 .instagram-module-container {
   width: 75%;
-  height: 500px;
+  height: auto;
   margin: auto;
 }
 
 .module-container {
   width: 100%;
-  height: 300px;
+  height: auto;
   border: 2px solid black;
+}
+
+.in-photo {
+  border-radius: 25px;
 }
